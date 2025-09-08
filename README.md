@@ -3,7 +3,10 @@
 💻 **Developer | Builder | Open-Source Contributor | Tech Explorer**  
 Passionate about solving real-world problems with technology. From building AI-powered drones to scaling SaaS products, I love crafting solutions that combine innovation, scalability, and impact.  
 
-📍 From Kolkata | 🌐 [Portfolio](https://docs.google.com/document/d/1xqkHSIuxrC1riBB_X1UvXqMknv3ooEAm7xAzytPymYI/edit?usp=drive_link)  
+📍 Kolkata ✈️ Bangalore
+
+🌐 [Resume](https://docs.google.com/document/d/1vt2okjygoqAORZKMLLCmr99eYCBYVCT-/edit?usp=drive_link&ouid=116293420635970292706&rtpof=true&sd=true)
+🌐 [Portfolio](https://docs.google.com/document/d/1xqkHSIuxrC1riBB_X1UvXqMknv3ooEAm7xAzytPymYI/edit?usp=drive_link)  
 
 ---
 
@@ -60,7 +63,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 - **Grunfeld (Open Source Club)** – Crew Member | Organized hackathons & mentored contributors.  
 - **Media Club** – Covered campus events with video editing & social strategy.  
-- **SST Innovation Lab** – Core Member | Projects: Firefighting Drone, Robodog, Medical Drones, Vision Pro Apps.  
+- **SST Innovation Lab** – Core Member | Projects: LifeLineX, Smart Attendance Automaion, TruthTale  
 - **Creator’s Club** – Elite Member | Content creation, hosting sessions with educators & YouTubers.  
 
 ---
