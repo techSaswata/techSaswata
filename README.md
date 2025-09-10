@@ -92,7 +92,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 🖥️ [GitHub](https://github.com/techSaswata)  
 - ⚡ [Codeforces](https://codeforces.com/profile/DarkSyntax)  
 - ⚡ [CodeChef](https://www.codechef.com/users/techsaswata)  
-- ⚡ [LeetCode](https://leetcode.com/u/coodycook/)  
+- ⚡ [LeetCode]()  
 
 ---
 
