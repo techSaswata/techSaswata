@@ -10,7 +10,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 - 🎓 **B.Sc. in Computer Science** – Birla Institute of Technology & Science (BITS), CGPA: 8.89  
 - 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)** | **1000+ Leetcode Problems Solved**  
 - 🏆 JEE Advanced 2024 – AIR **4039**
