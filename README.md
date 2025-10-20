@@ -10,7 +10,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 ---
 
-## 🚀 About Me
+## About Me
 - 💼 **Founder** - eDastavez
 - 🎓 **B.Sc. in Computer Science** – Birla Institute of Technology & Science (BITS), CGPA: 8.89  
 - 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)** | **1000+ Leetcode Problems Solved**  
@@ -20,6 +20,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling  
 
 ---
+## Hacktoberfest Halopin Badges
 [![@techsaswata9's Holopin badges](https://holopin.me/techsaswata9)](https://holopin.io/@techsaswata9)
 
 ## 💼 Experience  
