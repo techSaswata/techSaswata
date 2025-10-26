@@ -46,6 +46,14 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techSaswata&theme=react-dark&hide_border=true" alt="Saswata's Contribution Graph"/>
+</p>
+
+---
+
 ## 🛠️ Projects  
 
 - **[ClipSas](https://github.com/techSaswata/ClipSas)** – Mac clipboard manager with **200+ users**, built before Apple’s official tool.  
