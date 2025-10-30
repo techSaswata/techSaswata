@@ -87,10 +87,6 @@ Passionate about solving real-world problems with technology. From building AI-p
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=techSaswata&theme=radical" alt="GitHub Streak" height="180em"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techSaswata&theme=radical" alt="Profile Summary"/>
 </p>
 
