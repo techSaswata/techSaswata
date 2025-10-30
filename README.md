@@ -30,7 +30,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - Curated 100+ lawyer-approved templates.  
 - Projected to handle **500+ contracts/quarter** with AI-assisted drafting.  
 
-### 🔹 Founding SWE Intern – [MentiBY](https://mentiby.com) *(Apr 2025 – Jul 2025)*  
+### 🔹 Lead Developer Intern – [MentiBY](https://mentiby.com) *(Apr 2025 – Jul 2025)*  
 - Built an **AI calling agent** with Twilio + ElevenLabs (boosted engagement by 70%).  
 - Developed the company site & admin panel → 2× engagement, 90% less admin overhead.  
 
