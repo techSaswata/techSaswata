@@ -97,9 +97,9 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 📧 [tech.saswata@gmail.com](mailto:tech.saswata@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/techsas)  
 - 🖥️ [GitHub](https://github.com/techSaswata)  
-- ⚡ [Codeforces](https://codeforces.com/profile/DarkSyntax)  
-- ⚡ [CodeChef](https://www.codechef.com/users/techsaswata)  
-- ⚡ [LeetCode](https://leetcode.com/u/coodycook/)  
+- ⚡ [Codeforces]()  
+- ⚡ [CodeChef]()  
+- ⚡ [LeetCode]()  
 
 ---
 
