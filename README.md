@@ -5,7 +5,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 📍 Kolkata ✈️ Bangalore
 
-🌐 [Resume](https://docs.google.com/document/d/1vt2okjygoqAORZKMLLCmr99eYCBYVCT-/edit?usp=drive_link&ouid=116293420635970292706&rtpof=true&sd=true)
+🌐 [Resume](https://docs.google.com/document/d/1vt2okjygoqAOZKMLLCmr99eYCBYVCT-/edit?usp=drive_link&ouid=116293420635970292706&rtpof=true&sd=true)
 🌐 [Portfolio](https://docs.google.com/document/d/1xqkHSIuxrC1riBB_X1UvXqMknv3ooEAm7xAzytPymYI/edit?usp=drive_link)  
 
 ---
