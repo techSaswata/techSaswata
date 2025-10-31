@@ -13,7 +13,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 ## About Me
 - 💼 **Founder** - eDastavez
 - 🎓 **B.Sc. in Computer Science** – Birla Institute of Technology & Science (BITS), CGPA: 8.89  
-- 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)** | **1000+ Leetcode Problems Solved**  
+- 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)**
 - 🏆 JEE Advanced 2024 – AIR **4039**
 - 🛠️ Finalist – **Smart India Hackathon 2024**  
 - 🌍 Active in open-source – **Hacktoberfest 2024 (8 PRs)**, **GSSoC Extd. 2024 Contributor**  
