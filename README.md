@@ -16,7 +16,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)**
 - 🏆 JEE Advanced 2024 – AIR **4039**
 - 🛠️ Finalist – **Smart India Hackathon 2024**  
-- 🌍 Active in open-source – **Hacktoberfest 2024 (8 PRs)**, **GSSoC Extd. 2024 Contributor**  
+- 🌍 Active in open-source – **2x Hacktoberfest SuperContributor**, **GSSoC Extd. 2024 Contributor**  
 - 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling  
 
 ---
@@ -30,7 +30,10 @@ Passionate about solving real-world problems with technology. From building AI-p
 - Curated 100+ lawyer-approved templates.  
 - Projected to handle **500+ contracts/quarter** with AI-assisted drafting.  
 
-### 🔹 Lead Developer Intern – [MentiBY](https://mentiby.com) *(Apr 2025 – Sept 2025)*  
+### 🔹 SDE Intern – [InterviewBit (ScalerAI Labs)](https://scalerailabs.com/) *(Oct 2025 – Present)*
+- Working closely with xAI, openAI and Google Deepminds
+
+### 🔹 Lead Developer Intern – [MentiBY](https://mentiby.com) *(Apr 2025 – Dec 2025)*  
 - Built an **AI calling agent** with Twilio + ElevenLabs (boosted engagement by 70%).  
 - Developed the company site & admin panel → 2× engagement, 90% less admin overhead.  
 
