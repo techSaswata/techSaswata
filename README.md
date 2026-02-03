@@ -20,7 +20,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling  
 
 ---
-## Hacktoberfest Halopin Badges
+## Wall of Hacktoberfest
 [![@techsaswata9's Holopin badges](https://holopin.me/techsaswata9)](https://holopin.io/@techsaswata9)
 
 ## 💼 Experience  
