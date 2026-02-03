@@ -11,7 +11,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 ---
 
 ## About Me
-- 💼 **Founder** - eDastavez
+- 💼 TechFest, IITB 2025 Winner
 - 🎓 **B.Sc. in Computer Science** – Birla Institute of Technology & Science (BITS), CGPA: 8.89  
 - 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)**
 - 🏆 JEE Advanced 2024 – AIR **4039**
