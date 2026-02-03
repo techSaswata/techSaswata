@@ -30,10 +30,10 @@ Passionate about solving real-world problems with technology. From building AI-p
 - Curated 100+ lawyer-approved templates.  
 - Projected to handle **500+ contracts/quarter** with AI-assisted drafting.  
 
-### 🔹 SDE Intern – [InterviewBit (ScalerAI Labs)](https://scalerailabs.com/) *(Oct 2025 – Present)*
+### 🔹 Ex-SDE Intern – [InterviewBit (ScalerAI Labs)](https://scalerailabs.com/) *(Oct 2025 – Jan 2025)*
 - Working closely with xAI, openAI and Google Deepminds
 
-### 🔹 Lead Developer Intern – [MentiBY](https://mentiby.com) *(Apr 2025 – Dec 2025)*  
+### 🔹 Ex-Lead Developer Intern – [MentiBY](https://mentiby.com) *(Apr 2025 – Dec 2025)*  
 - Built an **AI calling agent** with Twilio + ElevenLabs (boosted engagement by 70%).  
 - Developed the company site & admin panel → 2× engagement, 90% less admin overhead.  
 
