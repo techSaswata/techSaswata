@@ -63,7 +63,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 <div align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=techSaswata&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" /> -->
-  <img src="https://github.com/techSaswata/github-stats/blob/main/stats.svg" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/techSaswata/github-stats/main/stats.svg?v=2" alt="stats graph" />
 
 </div>
 
@@ -100,18 +100,18 @@ Passionate about solving real-world problems with technology. From building AI-p
 - **SST Innovation Lab** – Core Member | Projects: LifeLineX, Smart Attendance Automaion, TruthTale  
 - **Creator’s Club** – Elite Member | Content creation, hosting sessions with educators & YouTubers.  
 
----
+<!-- ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats   -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techSaswata&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
   
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techSaswata&theme=radical" alt="Profile Summary"/>
-</p>
+</p> -->
 
 ---
 
