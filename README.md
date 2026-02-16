@@ -8,7 +8,64 @@ Passionate about solving real-world problems with technology. From building AI-p
 🌐 [Resume](https://docs.google.com/document/d/1uPNwQqqZ4rxmSjOeWzy7GGn3M0qUWX8o/edit?usp=sharing&ouid=116293420635970292706&rtpof=true&sd=true)
 🌐 [Portfolio](https://docs.google.com/document/d/1xqkHSIuxrC1riBB_X1UvXqMknv3ooEAm7xAzytPymYI/edit?usp=drive_link)  
 
----
+<!-- --- -->
+<h3 align="center">💻 Tech Stack</h3>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" valign="middle"><strong>🧠 Languages</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=java,cpp,go,python,kotlin,swift,js,ts,html,css&theme=dark" alt="languages" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>⚙️ Backend & Frameworks</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi,flask,docker&theme=dark" alt="backend" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" alt="sqlalchemy" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🎨 Frontend</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite,flutter&theme=dark" alt="frontend" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🗄️ Databases</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark" alt="databases" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>☁️ DevOps & Hosting</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions&theme=dark" alt="devops" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🧮 Data Science / ML</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv&theme=dark" alt="ml" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🧰 Tools & IDEs</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,canva&theme=dark" alt="tools" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
@@ -20,7 +77,7 @@ Passionate about solving real-world problems with technology. From building AI-p
   </picture>
 </p>
 
----
+<!-- --- -->
 
 ## About Me
 - 💼 TechFest, IITB 2025 Winner
@@ -31,7 +88,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 🌍 Active in open-source – **2x Hacktoberfest SuperContributor**, **GSSoC Extd. 2024 Contributor**  
 - 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling  
 
----
+<!-- --- -->
 ## Wall of Hacktoberfest
 [![@techsaswata9's Holopin badges](https://holopin.me/techsaswata9)](https://holopin.io/@techsaswata9)
 
@@ -59,7 +116,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - Real-time video via RF at 1 FPS + YOLO human detection.  
 - Selected for **Smart India Hackathon 2024 Grand Finale**.  
 
----
+<!-- --- -->
 
 <div align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=techSaswata&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" /> -->
@@ -67,7 +124,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 </div>
 
----
+<!-- --- -->
 
 ## 📊 Contribution Graph
 
@@ -75,7 +132,7 @@ Passionate about solving real-world problems with technology. From building AI-p
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techSaswata&theme=react-dark&hide_border=true" alt="Saswata's Contribution Graph"/>
 </p>
 
----
+<!-- --- -->
 
 ## 🛠️ Projects  
 
@@ -84,14 +141,14 @@ Passionate about solving real-world problems with technology. From building AI-p
 - **[Smart Attendance Automation](https://github.com/techSaswata/Smart-Attendance-System)** – Face-recognition attendance app, serving **1200+ students daily**.  
 - **[LifelineX](https://drive.google.com/drive/folders/1EeO1gkfqmVTPYmxTtU9GdEZplqs2g7ay?usp=sharing)** – Emergency drone with SOS messaging + human detection.  
 
----
+<!-- --- -->
 
-## 🧰 Tech Stack  
+<!-- ## 🧰 Tech Stack  
 
 **Languages:** Java, C++, Golang, Python, Kotlin, Swift, JavaScript, TypeScript, HTML, CSS  
-**Frameworks & Tools:** Next.js, React.js, SwiftUI, Spring Boot, FastAPI, Flask, Docker, PostgreSQL, MySQL, Flutter, OpenCV, Pandas, NumPy  
+**Frameworks & Tools:** Next.js, React.js, SwiftUI, Spring Boot, FastAPI, Flask, SQLAlchemy, Docker, PostgreSQL, MySQL, Flutter, OpenCV, Pandas, NumPy   -->
 
----
+<!-- --- -->
 
 ## 🌟 Leadership & Community  
 
@@ -113,16 +170,34 @@ Passionate about solving real-world problems with technology. From building AI-p
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techSaswata&theme=radical" alt="Profile Summary"/>
 </p> -->
 
----
+<!-- --- -->
 
 ## 📫 Let’s Connect  
 
-- 📧 [tech.saswata@gmail.com](mailto:tech.saswata@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/techsas)  
-- 🖥️ [GitHub](https://github.com/techSaswata)  
-- ⚡ [Codeforces]()  
-- ⚡ [CodeChef]()  
-- ⚡ [LeetCode]()  
+<p align="center">
+  <a href="mailto:tech.saswata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tech.saswata%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: tech.saswata@gmail.com" />
+  </a>
+  <a href="https://linkedin.com/in/techsas">
+    <img src="https://img.shields.io/badge/LinkedIn-techsas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: techsas" />
+  </a>
+  <a href="https://github.com/techSaswata">
+    <img src="https://img.shields.io/badge/GitHub-techSaswata-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: techSaswata" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- TODO: add your profile URLs below -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+</p>
 
 ---
 
