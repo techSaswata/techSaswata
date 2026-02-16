@@ -17,15 +17,14 @@ Passionate about solving real-world problems with technology. From building AI-p
   <tr>
     <td align="left" valign="middle"><strong>🧠 Languages</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,cpp,go,python,kotlin,swift,js,ts,html,css&theme=dark" alt="languages" />
+      <img src="https://skillicons.dev/icons?i=java,cpp,go,python,kotlin,swift,js,ts&theme=dark" alt="languages" />
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>⚙️ Backend & Frameworks</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi,flask,docker&theme=dark" alt="backend" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" alt="sqlalchemy" height="40" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi,flask&theme=dark" alt="backend" />
     </td>
   </tr>
 
@@ -39,21 +38,22 @@ Passionate about solving real-world problems with technology. From building AI-p
   <tr>
     <td align="left" valign="middle"><strong>🗄️ Databases</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark" alt="databases" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,supabase,firebase&theme=dark" alt="databases" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" alt="sqlalchemy" height="40" />
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>☁️ DevOps & Hosting</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions&theme=dark" alt="devops" />
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions,railway,render,aws&theme=dark" alt="devops" />
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>🧮 Data Science / ML</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv&theme=dark" alt="ml" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv,pandas,numpy&theme=dark" alt="ml" />
     </td>
   </tr>
 
@@ -61,6 +61,8 @@ Passionate about solving real-world problems with technology. From building AI-p
     <td align="left" valign="middle"><strong>🧰 Tools & IDEs</strong></td>
     <td align="left" valign="middle">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,canva&theme=dark" alt="tools" />
+      <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/cursor/icon.svg" alt="Cursor IDE" height="40" />
+      <img src="https://kiro.dev/favicon.ico" alt="Kiro IDE" height="40" />
     </td>
   </tr>
 </table>
