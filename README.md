@@ -128,7 +128,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 <div align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=techSaswata&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" /> -->
-  <img src="https://raw.githubusercontent.com/techSaswata/github-stats/main/stats.svg?v=2" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/techSaswata/github-stats/main/stats.svg" alt="stats graph" />
 
 </div>
 
