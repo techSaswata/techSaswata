@@ -31,7 +31,7 @@ Passionate about solving real-world problems with technology. From building AI-p
   <tr>
     <td align="left" valign="middle"><strong>🎨 Frontend</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite,flutter&theme=dark" alt="frontend" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,flutter&theme=dark" alt="frontend" />
     </td>
   </tr>
 
@@ -47,8 +47,8 @@ Passionate about solving real-world problems with technology. From building AI-p
     <td align="left" valign="middle"><strong>☁️ DevOps & Hosting</strong></td>
     <td align="left" valign="middle">
       <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions,aws&theme=dark" alt="devops" />
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" height="28" />
-      <img src="https://img.shields.io/badge/Render-20232A?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="28" />
+      <img src="https://devicons.railway.com/i/railway-light.svg" alt="Railway" height="48" />
+      <img src="https://findstack.com/cdn-cgi/image/format=auto,fit=contain,width=120,height=120,quality=90/https://assets.findstack.com/hf8tetz6wrjfxx6vxooc6igw3tah" alt="Render" height="48" style="border-radius: 12px;" />
     </td>
   </tr>
 
@@ -56,8 +56,8 @@ Passionate about solving real-world problems with technology. From building AI-p
     <td align="left" valign="middle"><strong>🧮 Data Science / ML</strong></td>
     <td align="left" valign="middle">
       <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv&theme=dark" alt="ml" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" />
     </td>
   </tr>
 
@@ -65,9 +65,9 @@ Passionate about solving real-world problems with technology. From building AI-p
     <td align="left" valign="middle"><strong>🧰 Tools & IDEs</strong></td>
     <td align="left" valign="middle">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="tools" />
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28" />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" height="28" />
-      <img src="https://img.shields.io/badge/Kiro-4B63FF?style=for-the-badge&logoColor=white" alt="Kiro IDE" height="28" />
+      <img src="https://logo.svgcdn.com/devicon/canva-original.svg" alt="Canva" height="48" />
+      <img src="https://brandlogos.net/wp-content/uploads/2025/04/cursor_code_editor-logo_brandlogos.net_r1yfy-512x512.png" alt="Cursor IDE" height="48" />
+      <img src="https://kiro.dev/favicon.ico" alt="Kiro IDE" height="48" />
     </td>
   </tr>
 </table>
@@ -124,6 +124,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - Selected for **Smart India Hackathon 2024 Grand Finale**.  
 
 <!-- --- -->
+## 📊 Stats & Contributions
 
 <div align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=techSaswata&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" /> -->
@@ -132,8 +133,6 @@ Passionate about solving real-world problems with technology. From building AI-p
 </div>
 
 <!-- --- -->
-
-## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techSaswata&theme=react-dark&hide_border=true" alt="Saswata's Contribution Graph"/>
