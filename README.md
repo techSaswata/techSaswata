@@ -46,23 +46,28 @@ Passionate about solving real-world problems with technology. From building AI-p
   <tr>
     <td align="left" valign="middle"><strong>☁️ DevOps & Hosting</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions,railway,render,aws&theme=dark" alt="devops" />
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions,aws&theme=dark" alt="devops" />
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" height="28" />
+      <img src="https://img.shields.io/badge/Render-20232A?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="28" />
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>🧮 Data Science / ML</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv,pandas,numpy&theme=dark" alt="ml" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv&theme=dark" alt="ml" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28" />
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>🧰 Tools & IDEs</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,canva&theme=dark" alt="tools" />
-      <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/cursor/icon.svg" alt="Cursor IDE" height="40" />
-      <img src="https://kiro.dev/favicon.ico" alt="Kiro IDE" height="40" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="tools" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" height="28" />
+      <img src="https://img.shields.io/badge/Kiro-4B63FF?style=for-the-badge&logoColor=white" alt="Kiro IDE" height="28" />
     </td>
   </tr>
 </table>
