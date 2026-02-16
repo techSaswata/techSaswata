@@ -25,13 +25,13 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 ## 💼 Experience  
 
-### 🔹 Founder – [eDastavez] *(Aug 2025 – Present)*  
+### 🔹 Founder – [eDastavez] *(Aug 2025 – Jan 2026)*  
 - Reduced contract creation time from **5 days to <10 minutes** using Aadhaar eSign, DigiLocker, MetaMask & blockchain.  
 - Curated 100+ lawyer-approved templates.  
 - Projected to handle **500+ contracts/quarter** with AI-assisted drafting.  
 
-### 🔹 Ex-SDE Intern – [InterviewBit (ScalerAI Labs)](https://scalerailabs.com/) *(Oct 2025 – Jan 2025)*
-- Working closely with xAI, openAI and Google Deepminds
+### 🔹 Ex-SDE Intern – [InterviewBit (ScalerAI Labs)](https://scalerailabs.com/) *(Oct 2025 – Jan 2026)*
+- Worked closely with xAI, openAI and Google Deepminds to deliver high quality RL Environments
 
 ### 🔹 Ex-Lead Developer Intern – [MentiBY](https://mentiby.com) *(Apr 2025 – Dec 2025)*  
 - Built an **AI calling agent** with Twilio + ElevenLabs (boosted engagement by 70%).  
