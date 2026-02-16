@@ -10,6 +10,18 @@ Passionate about solving real-world problems with technology. From building AI-p
 
 ---
 
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techSaswata/techSaswata/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techSaswata/techSaswata/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/techSaswata/techSaswata/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## About Me
 - 💼 TechFest, IITB 2025 Winner
 - 🎓 **B.Sc. in Computer Science** – Birla Institute of Technology & Science (BITS), CGPA: 8.89  
@@ -46,6 +58,14 @@ Passionate about solving real-world problems with technology. From building AI-p
 - AI-powered **emergency response drone**.  
 - Real-time video via RF at 1 FPS + YOLO human detection.  
 - Selected for **Smart India Hackathon 2024 Grand Finale**.  
+
+---
+
+<div align="center">
+  <!-- <img src="https://streak-stats.demolab.com?user=techSaswata&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" /> -->
+  <img src="https://github.com/techSaswata/github-stats/blob/master/stats.svg" alt="languages graph" />
+
+</div>
 
 ---
 
