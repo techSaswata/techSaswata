@@ -64,10 +64,10 @@ Passionate about solving real-world problems with technology. From building AI-p
   <tr>
     <td align="left" valign="middle"><strong>🧰 Tools & IDEs</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="tools" />
-      <img src="./assets/canva.webp" alt="Canva" height="48" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea&theme=dark" alt="tools" />
       <img src="https://brandlogos.net/wp-content/uploads/2025/04/cursor_code_editor-logo_brandlogos.net_r1yfy-512x512.png" alt="Cursor IDE" height="48" />
       <img src="https://kiro.dev/favicon.ico" alt="Kiro IDE" height="48" />
+      <img src="./assets/canva.webp" alt="Canva" height="48" />
     </td>
   </tr>
 </table>
