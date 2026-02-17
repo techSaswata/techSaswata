@@ -46,7 +46,7 @@ Passionate about solving real-world problems with technology. From building AI-p
   <tr>
     <td align="left" valign="middle"><strong>☁️ DevOps & Hosting</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions,aws&theme=dark" alt="devops" />
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions,aws&theme=dark" alt="devops" />
       <img src="https://devicons.railway.com/i/railway-light.svg" alt="Railway" height="48" />
       <img src="https://findstack.com/cdn-cgi/image/format=auto,fit=contain,width=120,height=120,quality=90/https://assets.findstack.com/hf8tetz6wrjfxx6vxooc6igw3tah" alt="Render" height="48" style="border-radius: 12px;" />
     </td>
