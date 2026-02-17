@@ -95,16 +95,17 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 🌍 Active in open-source – **2x Hacktoberfest SuperContributor**, **GSSoC Extd. 2024 Contributor**  
 - 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling  
 
-<!-- --- -->
+ --- -->
 ## Wall of Hacktoberfest
 [![@techsaswata9's Holopin badges](https://holopin.me/techsaswata9)](https://holopin.io/@techsaswata9)
 
 ## 💼 Experience  
 
+<!--
 ### 🔹 Founder – [eDastavez] *(Aug 2025 – Jan 2026)*  
 - Reduced contract creation time from **5 days to <10 minutes** using Aadhaar eSign, DigiLocker, MetaMask & blockchain.  
 - Curated 100+ lawyer-approved templates.  
-- Projected to handle **500+ contracts/quarter** with AI-assisted drafting.  
+- Projected to handle **500+ contracts/quarter** with AI-assisted drafting.  -->
 
 ### 🔹 Ex-SDE Intern – [InterviewBit (ScalerAI Labs)](https://scalerailabs.com/) *(Oct 2025 – Jan 2026)*
 - Worked closely with xAI, openAI and Google Deepminds to deliver high quality RL Environments
