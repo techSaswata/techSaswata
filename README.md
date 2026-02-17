@@ -95,7 +95,7 @@ Passionate about solving real-world problems with technology. From building AI-p
 - 🌍 Active in open-source – **2x Hacktoberfest SuperContributor**, **GSSoC Extd. 2024 Contributor**  
 - 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling  
 
- --- -->
+<!-- --- -->
 ## Wall of Hacktoberfest
 [![@techsaswata9's Holopin badges](https://holopin.me/techsaswata9)](https://holopin.io/@techsaswata9)
 
