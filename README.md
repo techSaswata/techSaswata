@@ -1,7 +1,9 @@
 # 👋 Hi, this is Saswata 
 
-💻 **Developer | Builder | Open-Source Contributor | Tech Explorer**  
-Passionate about solving real-world problems with technology. From building AI-powered drones to scaling SaaS products, I love crafting solutions that combine innovation, scalability, and impact.  
+💻 **Full-Stack Engineer | AI Product Builder | National Hackathon Winner | Active Open-Source Contributor**  
+Passionate about solving real-world problems with technology. I take ideas from zero to production, make them reliable, and ship fast when it matters. I like crafting things that get used. Worked alongside frontier AI teams including xAI, OpenAI, Meta, and Google DeepMind on high-fidelity RL environments and curated datasets. 
+
+When speed matters, deadlines are tight and output matters, I take ownership, design clean systems, and ship fast without compromising on the quality structure. Give me ownership and a tight deadline, I’ll give you a quality product.
 
 📍 Kolkata ✈️ Bangalore
 
