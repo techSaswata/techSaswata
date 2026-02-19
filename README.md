@@ -91,11 +91,11 @@ When speed matters, deadlines are tight and output matters, I take ownership, de
 ## About Me
 - 💼 TechFest, IITB 2025 Winner
 - 🎓 **B.Sc. in Computer Science** – Birla Institute of Technology & Science (BITS), CGPA: 8.89  
-<!-- - 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)** -->
 - 🏆 JEE Advanced 2024 – AIR **4039**
 - 🛠️ **2x Grand Finalist** – Smart India Hackathon 2024 & 2025  
 - 🌍 Active in open-source – **2x Hacktoberfest SuperContributor**, **GSSoC Extd. 2024 Contributor**  
-- 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling  
+- 🎬 Creator – Scaling YouTube & LinkedIn to 1K+ followers with tech storytelling
+<!-- - 📈 Competitive Programmer: **Expert @Codeforces (1660)** | **4⭐ @CodeChef (1957)** -->  
 
 <!-- --- -->
 ## Wall of Hacktoberfest
