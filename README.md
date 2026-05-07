@@ -7,7 +7,7 @@ When speed matters, deadlines are tight and output matters, I take ownership, de
 
 📍 Kolkata ✈️ Bangalore
 
-🌐 [Resume](https://drive.google.com/file/d/15_caLuQ2qWWHripFsHkzWeFM3t8JMbw1/view?usp=drive_link)
+🌐 [Resume](https://drive.google.com/file/d/18d9sUqIdaAVG_hN8KTaWUPcshEwLQo_h/view)
 🌐 [Portfolio](https://docs.google.com/document/d/1xqkHSIuxrC1riBB_X1UvXqMknv3ooEAm7xAzytPymYI/edit?usp=drive_link)  
 
 <!-- --- -->
