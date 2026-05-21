@@ -145,6 +145,7 @@ When speed matters, deadlines are tight and output matters, I take ownership, de
 
 ## 🛠️ Projects  
 
+- **[DisasterMesh](https://github.com/techSaswata/Piedpiper)** – A end-to-end Disaster Response App runs pure offline.
 - **[ClipSas](https://github.com/techSaswata/ClipSas)** – Mac clipboard manager with **200+ users**, built before Apple’s official tool.  
 - **[Nebula](https://github.com/techSaswata/Nebula)** – Exam prep platform with an **AI Interviewer** + payment integration.  
 - **[Smart Attendance Automation](https://github.com/techSaswata/Smart-Attendance-System)** – Face-recognition attendance app, serving **1200+ students daily**.  
